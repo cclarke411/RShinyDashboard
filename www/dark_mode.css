@@ -1,0 +1,23 @@
+.skin-red .main-sidebar {
+                              background-color: white;
+                              }
+
+section.sidebar {
+  padding:22px 15px 13px 25px;
+  white-space: normal;
+}
+/* Change header text to imported font */
+
+#update_chart {
+  margin: 15px 15px 6px 1px;
+}
+
+
+h2 {
+  font-family: 'Yusei Magic', sans-serif;
+}
+
+/* Make text visible on inputs */
+.shiny-input-container {
+  color: #474747;
+}
