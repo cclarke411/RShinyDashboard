@@ -1,0 +1,143 @@
+name,continent,iso2c
+Afghanistan,Asia,AF
+Albania,Europe,AL
+Algeria,Africa,DZ
+Angola,Africa,AO
+Argentina,Americas,AR
+Australia,Oceania,AU
+Austria,Europe,AT
+Bahrain,Asia,BH
+Bangladesh,Asia,BD
+Belgium,Europe,BE
+Benin,Africa,BJ
+Bolivia,Americas,BO
+Bosnia and Herzegovina,Europe,BA
+Botswana,Africa,BW
+Brazil,Americas,BR
+Bulgaria,Europe,BG
+Burkina Faso,Africa,BF
+Burundi,Africa,BI
+Cambodia,Asia,KH
+Cameroon,Africa,CM
+Canada,Americas,CA
+Central African Republic,Africa,CF
+Chad,Africa,TD
+Chile,Americas,CL
+China,Asia,CN
+Colombia,Americas,CO
+Comoros,Africa,KM
+"Congo, Dem. Rep.",Africa,CD
+"Congo, Rep.",Africa,CG
+Costa Rica,Americas,CR
+Cote d'Ivoire,Africa,CI
+Croatia,Europe,HR
+Cuba,Americas,CU
+Czech Republic,Europe,CZ
+Denmark,Europe,DK
+Djibouti,Africa,DJ
+Dominican Republic,Americas,DO
+Ecuador,Americas,EC
+Egypt,Africa,EG
+El Salvador,Americas,SV
+Equatorial Guinea,Africa,GQ
+Eritrea,Africa,ER
+Ethiopia,Africa,ET
+Finland,Europe,FI
+France,Europe,FR
+Gabon,Africa,GA
+Gambia,Africa,GM
+Germany,Europe,DE
+Ghana,Africa,GH
+Greece,Europe,GR
+Guatemala,Americas,GT
+Guinea,Africa,GN
+Guinea-Bissau,Africa,GW
+Haiti,Americas,HT
+Honduras,Americas,HN
+"Hong Kong, China",Asia,HK
+Hungary,Europe,HU
+Iceland,Europe,IS
+India,Asia,IN
+Indonesia,Asia,ID
+Iran,Asia,IR
+Iraq,Asia,IQ
+Ireland,Europe,IE
+Israel,Asia,IL
+Italy,Europe,IT
+Jamaica,Americas,JM
+Japan,Asia,JP
+Jordan,Asia,JO
+Kenya,Africa,KE
+"Korea, Dem. Rep.",Asia,KR
+"Korea, Rep.",Asia,KR
+Kuwait,Asia,KW
+Lebanon,Asia,LB
+Lesotho,Africa,LS
+Liberia,Africa,LR
+Libya,Africa,LY
+Madagascar,Africa,MG
+Malawi,Africa,MW
+Malaysia,Asia,MY
+Mali,Africa,ML
+Mauritania,Africa,MR
+Mauritius,Africa,MU
+Mexico,Americas,MX
+Mongolia,Asia,MN
+Montenegro,Europe,ME
+Morocco,Africa,MA
+Mozambique,Africa,MZ
+Myanmar,Asia,MM
+Namibia,Africa,"NA"
+Nepal,Asia,NP
+Netherlands,Europe,NL
+New Zealand,Oceania,NZ
+Nicaragua,Americas,NI
+Niger,Africa,NE
+Nigeria,Africa,NG
+Norway,Europe,NO
+Oman,Asia,OM
+Pakistan,Asia,PK
+Panama,Americas,PA
+Paraguay,Americas,PY
+Peru,Americas,PE
+Philippines,Asia,PH
+Poland,Europe,PL
+Portugal,Europe,PT
+Puerto Rico,Americas,PR
+Reunion,Africa,RE
+Romania,Europe,RO
+Rwanda,Africa,RW
+Sao Tome and Principe,Africa,ST
+Saudi Arabia,Asia,SA
+Senegal,Africa,SN
+Serbia,Europe,RS
+Sierra Leone,Africa,SL
+Singapore,Asia,SG
+Slovak Republic,Europe,SK
+Slovenia,Europe,SI
+Somalia,Africa,SO
+South Africa,Africa,ZA
+Spain,Europe,ES
+Sri Lanka,Asia,LK
+Sudan,Africa,SD
+Swaziland,Africa,SZ
+Sweden,Europe,SE
+Switzerland,Europe,CH
+Syria,Asia,SY
+Taiwan,Asia,TW
+Tanzania,Africa,TZ
+Thailand,Asia,TH
+Togo,Africa,TG
+Trinidad and Tobago,Americas,TT
+Tunisia,Africa,TN
+Turkey,Europe,TR
+Uganda,Africa,UG
+United Kingdom,Europe,GB
+United States,Americas,US
+Uruguay,Americas,UY
+Venezuela,Americas,VE
+Vietnam,Asia,VN
+West Bank and Gaza,Asia,PS
+"Yemen, Rep.",Asia,YE
+Zambia,Africa,ZM
+Zimbabwe,Africa,ZW
